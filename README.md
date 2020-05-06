@@ -25,7 +25,7 @@ This project required me to apply my knowledge of Amazon Web Service (AWS) to de
 ![Configure S3 Bucket](png/step4.png)
 
 ### Step 5: Distribute Website via CloudFront
-![Distribute Website via CloudFront](step5.png)
+![Distribute Website via CloudFront](png/step5.png)
 
 ### Step 6: Access the Website in a Web Browser
 
