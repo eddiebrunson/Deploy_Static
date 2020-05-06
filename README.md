@@ -32,4 +32,6 @@ This project required me to apply my knowledge of Amazon Web Service (AWS) to de
 ![Access the Website in a Web Browser](png/step6.png)
 
 [Access URL link Click here!](http://d1lt8mrf8to8ld.cloudfront.net/index.html)
+                
+* http://d1lt8mrf8to8ld.cloudfront.net/index.html
 
